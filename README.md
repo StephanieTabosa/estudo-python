@@ -1,2 +1,2 @@
-# estudo-python
-Arquivos ".py" do curso de Python
+#  Mundo 01: Python Fundamentos
+Arquivos dos exercícios do curso Python 3
